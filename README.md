@@ -68,3 +68,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+
+# Getting Started with Node App
+
+
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `nodemon`
+
+Runs the app in the development mode.\
+Open [http://localhost:8080](http://localhost:8080) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
